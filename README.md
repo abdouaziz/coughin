@@ -1,6 +1,5 @@
-<p align="center"> 
-   Cough'In
-</p>
+# Cough'In
+
 
 <p align="center">
 <img src="./data/images/im.jpg"  >
