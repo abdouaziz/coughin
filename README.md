@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./data/images/im.jpg"  >
+<img src="./images/im.jpg"  >
 </p>
 
 
